@@ -1,0 +1,5 @@
+client/node_modules/
+server/node_modules/
+ml_model/venv/
+ml_model/gemma_local/
+ml_model/vit_gpt2-local/
